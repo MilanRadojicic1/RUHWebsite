@@ -53,7 +53,9 @@ export const IndexPageTemplate = ({
                     fontWeight: 'bolder',
                   }}
                 >
-                  {hero.title}
+
+                 R. U. Hacking? 2021
+
                 </h1>
               </div>
             </div>
